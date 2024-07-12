@@ -1,6 +1,6 @@
 # **Previous note**
 
-The jupyter notebook file contains all detailed information and explanation regarding every operation mentioned throughout the report. The report, therefore, does not replace the notebook to fully understand the whole data analysis carried out.
+The jupyter notebook file contains all detailed information and explanation regarding every operation mentioned throughout the report. The report (file: *group2_slides_presentation.pdf*), therefore, does not replace the notebook to fully understand the whole data analysis carried out.
 
 
 ## **Research Question**
